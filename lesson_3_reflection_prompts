@@ -8,3 +8,5 @@ clones - copying a repository form either a local or remote place to a local pla
 branch - different version on the same repository
 What is the benefit of having a copy of the last known state of the remote stored locally?
 if you arent connected to the internet you still have a copy 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would either send the file via email or USB, but it would be harder to find the differences
